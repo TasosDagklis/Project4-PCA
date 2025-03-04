@@ -22,10 +22,7 @@ For more details on the dataset:
 - Visualize **explained variance ratio** to select optimal PCs  
 
 ### 3️⃣ Classification Models
-- Train models on **original and PCA-reduced data**:
-  - Logistic Regression  
-  - Support Vector Machines (SVM)  
-  - Random Forest 
+- Train model on **original and PCA-reduced data**:   
 - Compare performance based on **accuracy, precision, recall**  
 
 ### 4️⃣ Evaluation & Insights
